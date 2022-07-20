@@ -37,7 +37,7 @@ assignment.sumOfNumbers = sumOfNumbers;
  */
 function countEvenNumbers(arrayOfNumbers) {
 }
-assignment.countEvenNumbers = countEvenNumbers;
+// assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
