@@ -42,10 +42,9 @@ function countEvenNumbers(arrayOfNumbers) {
         for (let i = 0; i < arrayOfNumbers.length; i++) {
             if (i % 2 === 0){ 
                 sum = sum + arrayOfNumbers[i];
-            }
-        }
-  return sum;
-        
+            }    
+        }   
+        return sum;  
     }
   return arrayOfNumbers.length;
 }
