@@ -44,7 +44,6 @@ function countEvenNumbers(arrayOfNumbers) {
                 sum = sum + arrayOfNumbers[i];
             }
         }
-    }
   return sum;
   return arrayOfNumbers.length;
 }
